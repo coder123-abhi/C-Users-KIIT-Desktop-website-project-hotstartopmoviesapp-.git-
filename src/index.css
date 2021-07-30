@@ -1,0 +1,99 @@
+*{margin:0;padding: 0;box-sizing:border-box;}
+.heading{
+  background-color: navy;
+  text-align:center;
+}
+.navbar
+{
+  background-color: aqua;
+  display:flex;
+    justify-content:space-evenly ;
+    
+}
+#movies{
+  background-color: beige;
+}
+#sports{
+  background-color: beige;
+}
+
+#news{
+  background-color: beige;
+}
+
+#premium{
+  background-color: beige;
+}
+.member
+{
+  display:flex;
+  justify-content: space-evenly;
+  background-color:yellow ;
+}
+#member{
+  background-color: greenyellow;
+}
+#login{
+  background-color: greenyellow;
+}
+.firstrow{
+  display:flex;
+  flex-direction:row ;
+  justify-content: space-evenly;
+  margin-top: 8px;
+}
+.secondrow{
+  margin-top: 15px;
+  display:flex;
+  flex-direction:row ;
+  justify-content: space-evenly;
+}
+.thirdrow{
+  margin-top: 15px;
+  display:flex;
+  flex-direction:row ;
+  justify-content: space-evenly;
+  margin-bottom:14px; 
+}
+.main{
+  display: flex;
+  flex-direction:column;
+  margin-top:10px;
+  background-color: grey;
+}
+#movi{
+  border:none;
+  border-radius:6px;
+  color:blue;
+  background-color: beige;
+}
+#sport{
+  border:none;
+  border-radius:6px;
+  color:blue;
+  background-color: beige;
+}
+#new{
+  border:none;
+  border-radius:6px;
+  color:blue;
+  background-color: beige;
+}
+#premium{
+  border:none;
+  border-radius:6px;
+  color:blue;
+  background-color: beige;
+}
+#member{
+  border:none;
+  border-radius:6px;
+  color:white;
+  background-color: indigo;
+}
+#login{
+  border:none;
+  border-radius:6px;
+  color:white;
+  background-color: indigo;
+}
